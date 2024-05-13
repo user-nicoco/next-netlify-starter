@@ -4,6 +4,7 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
+    
     <div className="container">
       <Head>
         <title>onglet</title>
@@ -11,10 +12,8 @@ export default function Home() {
       </Head>
 
       <main>
-
     
         <Header title="SITE" />
-    
         <p className="description">
           va voir la <code>pages/index.js</code>
         </p>
