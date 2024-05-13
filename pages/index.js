@@ -15,7 +15,7 @@ export default function Home() {
     
         <Header title="SITE" />
         <p className="description">
-          va voir la <code> <link href="pages/index.js" pages/index.js</code>
+          va voir la <code>pages/index.js</code>
         </p>
     
         <Header title="PORTFOLIO" />
