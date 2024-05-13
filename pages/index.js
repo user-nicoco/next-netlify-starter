@@ -11,10 +11,19 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="1 er site" />
+
+    
+        <Header title="SITE" />
+    
         <p className="description">
           va voir la <code>pages/index.js</code>
         </p>
+    
+        <Header title="PORTFOLIO" />
+        <p className="description">
+          va voir la <code>pages/portfolio.js</code>
+        </p>
+    
       </main>
 
       <Footer />
