@@ -17,11 +17,7 @@ export default function Home() {
         <p className="description">
           va voir la <code>pages/index.js</code>
         </p>
-    
-        <Header title="PORTFOLIO" />
-        <p className="description">
-          va voir la <code>pages/portfolio.js</code>
-        </p>
+  
     
       </main>
 
