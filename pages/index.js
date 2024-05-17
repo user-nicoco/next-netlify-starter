@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="min-h-screen flex flex-col">
       <Head>
-        <title>Mon Portfolio</title>
+        <title>MonPortfolio</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
