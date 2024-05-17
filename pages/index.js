@@ -16,7 +16,8 @@ export default function Home() {
         <section id="about" className="py-12 bg-gray-100">
           <div className="container mx-auto px-4">
             <h2 className="text-3xl font-semibold mb-4">À propos de moi</h2>
-            <p>Bienvenue sur mon portfolio. Je suis Ingénieur Système avec une solide expérience en administration de systèmes, gestion de réseaux et développement de scripts d'automatisation.</p>
+            <p>Bienvenue sur mon portfolio. <br>
+    Je suis Ingénieur Système avec une solide expérience en administration de systèmes, gestion de réseaux et développement de scripts d'automatisation. </p>
           </div>
         </section>
 
