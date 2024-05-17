@@ -16,7 +16,9 @@ export default function Home() {
         <section id="about" className="py-12 bg-gray-100">
           <div className="container mx-auto px-4">
             <h2 className="text-3xl font-semibold mb-4">À propos de moi</h2>
-            <p>Bienvenue sur mon portfolio. <br /> Je suis Ingénieur Système avec une expérience dans l'administration de systèmes, gestion de réseaux et développement de scripts d'automatisation. </p>
+            <p>Bienvenue sur mon portfolio. 
+            <br /> <br />
+            Je suis Ingénieur Système avec une expérience dans l'administration de systèmes, gestion de réseaux et développement de scripts d'automatisation. </p>
           </div>
         </section>
 
@@ -24,10 +26,10 @@ export default function Home() {
           <div className="container mx-auto px-4">
             <h2 className="text-3xl font-semibold mb-4">Compétences</h2>
             <ul className="list-disc pl-6">
-              <li>Administration de systèmes Linux/Windows</li>
+              <li>Administration de systèmes de type Linux etWindows</li>
               <li>Gestion des réseaux</li>
               <li>Virtualisation et conteneurisation (Docker, VMware)</li>
-              <li>Scripting (Bash, Python)</li>
+              <li>Scripting (Bash, YAML)</li>
               <li>Sécurité des systèmes</li>
             </ul>
           </div>
