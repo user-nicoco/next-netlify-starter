@@ -13,7 +13,7 @@ body {
 }
 
 header {
-  background: #fff;
+  background: #4682B4;
   color: #4682B4;
   padding: 20px 0;
   width: 100%;
@@ -89,8 +89,8 @@ ul {
 }
 
 ul li {
-  background: #fff;
-  color: #fff;
+  background: #4682B4;
+  color: #4682B4;
   margin-bottom: 10px;
   padding: 10px;
 }
