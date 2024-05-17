@@ -9,6 +9,8 @@ export default function Home() {
       <Head>
         <title>onglet</title>
         <link rel="icon" href="/favicon.ico" />
+        <link rel="stylesheet" href="styles.css">
+
       </Head>
 
       <main>
@@ -18,14 +20,7 @@ export default function Home() {
           va voir la <code>pages/index.js</code>
         </p>
   
-    <!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio Ingénieur Système</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
+   
 <body>
     <header>
         <div class="container">
@@ -90,7 +85,7 @@ export default function Home() {
         </div>
     </footer>
 </body>
-</html>
+
 
       </main>
 
