@@ -26,7 +26,7 @@ export default function Home() {
           <div className="container mx-auto px-4">
             <h2 className="text-3xl font-semibold mb-4">Compétences</h2>
             <ul className="list-disc pl-6">
-              <li>Administration de systèmes de type Linux etWindows</li>
+              <li>Administration de systèmes de type Linux et Windows</li>
               <li>Gestion des réseaux</li>
               <li>Virtualisation et conteneurisation (Docker, VMware)</li>
               <li>Scripting (Bash, YAML)</li>
