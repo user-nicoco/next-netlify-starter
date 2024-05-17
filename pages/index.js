@@ -54,7 +54,7 @@ export default function Home() {
         <section id="contact" className="py-12">
           <div className="container mx-auto px-4">
             <h2 className="text-3xl font-semibold mb-4">Contact</h2>
-            <p>Vous pouvez me contacter à l'adresse suivante : <a href="mailto:votre.email@example.com" className="text-blue-600 hover:underline">votre.email@example.com</a></p>
+            <p>Vous pouvez me contacter à l'adresse suivante : <a href="mailto:votre.email@example.com" className="text-blue-600 hover:underline">macbook.nicolas.barros@gmail.com</a></p>
           </div>
         </section>
       </main>
