@@ -115,3 +115,33 @@ footer .container {
   max-width: 1200px;
   margin: 0 auto;
 }
+
+
+
+/* Progress bar styles */
+.progress-bar {
+  position: relative;
+  height: 4px;
+  background-color: #2d3748;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.progress {
+  height: 100%;
+  background-color: #48bb78;
+  transition: width 0.6s ease;
+}
+
+.skill h3 {
+  color: #fff;
+}
+
+.skill p {
+  color: #a0aec0;
+}
+
+.bg-gray-900 {
+  background-color: #1a202c;
+}
+
